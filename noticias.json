@@ -1,0 +1,18 @@
+{
+  "noticias": [
+    {
+      "titulo": "Bienvenida al espacio de noticias CITAM",
+      "resumen": "Esta es una noticia de ejemplo. Sustituye el contenido por la información que quieras publicar.",
+      "fecha": "2026-10-30",
+      "categoria": "Información",
+      "url": "https://example.org/noticia-1"
+    },
+    {
+      "titulo": "El carrusel se actualiza desde una URL externa",
+      "resumen": "Edita el archivo JSON publicado en tu servidor para renovar las noticias sin modificar la aplicación.",
+      "fecha": "2026-10-30",
+      "categoria": "Aplicación",
+      "url": "https://example.org/noticia-2"
+    }
+  ]
+}
