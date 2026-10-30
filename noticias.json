@@ -13,6 +13,27 @@
       "fecha": "2026-10-30",
       "categoria": "Aplicación",
       "url": "https://example.org/noticia-2"
+    },
+    {
+      "titulo": "Noticia 3",
+      "resumen": "Noticia 3",
+      "fecha": "2026-10-30",
+      "categoria": "Aplicación",
+      "url": "https://example.org/noticia-3"
+    },
+    {
+      "titulo": "Noticia 4",
+      "resumen": "Noticia 4",
+      "fecha": "2026-10-30",
+      "categoria": "Aplicación",
+      "url": "https://example.org/noticia-4"
+    },
+    {
+      "titulo": "Noticia 5",
+      "resumen": "Noticia 5",
+      "fecha": "2026-10-30",
+      "categoria": "Aplicación",
+      "url": "https://example.org/noticia-5"
     }
   ]
 }
