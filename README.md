@@ -3,8 +3,9 @@ Una app para controlar los horarios de fichaje.
 
 Enlace: https://skymaker.github.io/ControlHorario/index.html
 
-# Ejemplos de festivos
+## Ejemplos de festivos
 
+```
 [2026]
 01/01 - Año Nuevo
 06/01 - Epifanía del Señor
@@ -22,3 +23,4 @@ Enlace: https://skymaker.github.io/ControlHorario/index.html
 24/12 - Permiso retribuido
 25/12 - Natividad del Señor
 31/12 - Permiso retribuido
+```
